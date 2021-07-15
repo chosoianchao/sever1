@@ -1,5 +1,5 @@
 {
-   "detailPlace":[
+"detailPlace":[
 {
 "id":1,
 "namePlace":"Quảng trường Ba Đình – Lăng Bác",
@@ -167,78 +167,78 @@
 "textImg1":"Tượng La Hán",
 "img2":"https://mavangsaomai.com/wp-content/uploads/2020/08/tuong-phat-bang-dong-dat-vang-lon-nhat-cha-a-8.jpg",
 "textImg2":"Tượng bằng đống dát vàng"
-      },
-      {
-         "id":22,
-         "namePlace":"Khu du lịch Tràng An",
-         "img1":"https://icdn.dantri.com.vn/thumb_w/640/2019/10/10/hang-mua-1-1570669867898.jpg",
-         "textImg1":"Hang Múa",
-         "img2":"https://disantrangan.vn/wp-content/uploads/2021/02/co-do-hoa-lu-700x463.jpg",
-         "textImg2":"Cố đô Hoa Lư"
-      },
-      {
-         "id":23,
-         "namePlace":"Sầm Sơn",
-         "img1":"https://disantrangan.vn/wp-content/uploads/2021/03/du-lich-sam-son-thanh-hoa.jpg",
-         "textImg1":"Biển Sầm Sơn",
-         "img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/04_2021/diem-tham-quan-o-sam-son-hon-trong-mai.png",
-         "textImg2":"Hòn Trống Mái"
-      },
-      {
-         "id":24,
-         "namePlace":"Khu bảo tồn Thiên Nhiên Pù Luông",
-         "img1":"https://vcdn-ngoisao.vnecdn.net/2017/05/29/Puluong-3772-1496032882.jpg",
-         "textImg1":"Pù Luông retreat",
-         "img2":"https://dulichchat.com/wp-content/uploads/2020/08/du-lich-pu-luong-thanh-hoa-dulichchat-4-780x405.jpg",
-         "textImg2":"Pù Luông Eco Garden"
-      },
-      {
-         "id":25,
-         "namePlace":"Cung Đình Huế",
-         "img1":"https://www.chudu24.com/wp-content/uploads/2019/10/66766173_533455230527015_6725698845775923106_n.jpg",
-         "textImg1":"Kì Đài",
-         "img2":"https://media.travelmag.vn/resize/800x709/files/linhhuong/2020/06/18/101269371_541224983424461_6541927563306385575_n-0027.jpg",
-         "textImg2":"Đại Nội"
-      },
-      {
-         "id":26,
-         "namePlace":"Biển Lăng Cô",
-         "img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2020/bai-bien-chan-may.jpg",
-         "textImg1":"Bãi Chân Mây",
-         "img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2020/dam-lap-an.jpg",
-         "textImg2":"Đầm Lập An"
-      },
-      {
-         "id":27,
-         "namePlace":"Đảo Lý Sơn",
-         "img1":"https://cdn3.ivivu.com/2020/04/cong-to-vo-va-3-diem-check-in-noi-tieng-o-ly-son-ivivu-1-819x1024.jpg",
-         "textImg1":"Cổng Tò Vò",
-         "img2":"https://cdn3.ivivu.com/2020/04/cong-to-vo-va-3-diem-check-in-noi-tieng-o-ly-son-ivivu-4.jpg",
-         "textImg2":"Đảo Bé"
-      },
-      {
-         "id":28,
-         "namePlace":"Bãi Xép",
-         "img1":"https://media.travelmag.vn/center/960x576/files/news/2020/04/27/top-dia-diem-check-in-phu-quoc-sang-chanh-het-nac--di-ngay-keo-lo-161233.jpg",
-         "textImg1":"Biển Bãi Xép",
-         "img2":"https://focusasiatravel.vn/wp-content/uploads/2021/02/phu-yen-kinh-nghiem-du-lich-tuy-hoa-13-1024x768-1.jpg",
-         "textImg2":"Phim trường Tôi thấy hoa vàng trên cỏ xanh"
-      },
-      {
-         "id":29,
-         "namePlace":"Côn Đảo",
-         "img1":"https://www.chudu24.com/wp-content/uploads/2017/08/1-40.jpg",
-         "textImg1":"Biển Côn Đảo",
-         "img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/nha-tu-con-dao_1.jpg",
-         "textImg2":"Nhà tù Côn Đảo"
-      },
-      {
-         "id":30,
-         "namePlace":"Phú Quốc",
-         "img1":"https://dulichchat.com/wp-content/uploads/2019/12/du-lich-phu-quoc-tu-tuc-dulichchat-16.jpg",
-         "textImg1":"Bãi Sao",
-         "img2":"https://halotravel.vn/wp-content/uploads/2020/10/check-in-tai-hon-mong-tay-1024x814.jpg",
-         "textImg2":"Hòn Móng Tay"
-      }
-   ]
+},
+{
+"id":22,
+"namePlace":"Khu du lịch Tràng An",
+"img1":"https://icdn.dantri.com.vn/thumb_w/640/2019/10/10/hang-mua-1-1570669867898.jpg",
+ "textImg1":"Hang Múa",
+"img2":"https://disantrangan.vn/wp-content/uploads/2021/02/co-do-hoa-lu-700x463.jpg",
+"textImg2":"Cố đô Hoa Lư"
+},
+{
+"id":23,
+"namePlace":"Sầm Sơn",
+"img1":"https://disantrangan.vn/wp-content/uploads/2021/03/du-lich-sam-son-thanh-hoa.jpg",
+"textImg1":"Biển Sầm Sơn",
+"img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/04_2021/diem-tham-quan-o-sam-son-hon-trong-mai.png",
+"textImg2":"Hòn Trống Mái"
+},
+{
+"id":24,
+"namePlace":"Khu bảo tồn Thiên Nhiên Pù Luông",
+"img1":"https://vcdn-ngoisao.vnecdn.net/2017/05/29/Puluong-3772-1496032882.jpg",
+"textImg1":"Pù Luông retreat",
+"img2":"https://dulichchat.com/wp-content/uploads/2020/08/du-lich-pu-luong-thanh-hoa-dulichchat-4-780x405.jpg",
+"textImg2":"Pù Luông Eco Garden"
+},
+{
+"id":25,
+"namePlace":"Cung Đình Huế",
+"img1":"https://www.chudu24.com/wp-content/uploads/2019/10/66766173_533455230527015_6725698845775923106_n.jpg",
+"textImg1":"Kì Đài",
+"img2":"https://media.travelmag.vn/resize/800x709/files/linhhuong/2020/06/18/101269371_541224983424461_6541927563306385575_n-0027.jpg",
+"textImg2":"Đại Nội"
+},
+{
+"id":26,
+"namePlace":"Biển Lăng Cô",
+"img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2020/bai-bien-chan-may.jpg",
+"textImg1":"Bãi Chân Mây",
+"img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2020/dam-lap-an.jpg",
+"textImg2":"Đầm Lập An"
+},
+{
+"id":27,
+"namePlace":"Đảo Lý Sơn",
+"img1":"https://cdn3.ivivu.com/2020/04/cong-to-vo-va-3-diem-check-in-noi-tieng-o-ly-son-ivivu-1-819x1024.jpg",
+"textImg1":"Cổng Tò Vò",
+"img2":"https://cdn3.ivivu.com/2020/04/cong-to-vo-va-3-diem-check-in-noi-tieng-o-ly-son-ivivu-4.jpg",
+"textImg2":"Đảo Bé"
+},
+{
+"id":28,
+"namePlace":"Bãi Xép",
+"img1":"https://media.travelmag.vn/center/960x576/files/news/2020/04/27/top-dia-diem-check-in-phu-quoc-sang-chanh-het-nac--di-ngay-keo-lo-161233.jpg",
+"textImg1":"Biển Bãi Xép",
+"img2":"https://focusasiatravel.vn/wp-content/uploads/2021/02/phu-yen-kinh-nghiem-du-lich-tuy-hoa-13-1024x768-1.jpg",
+"textImg2":"Phim trường Tôi thấy hoa vàng trên cỏ xanh"
+},
+{
+"id":29,
+"namePlace":"Côn Đảo",
+"img1":"https://www.chudu24.com/wp-content/uploads/2017/08/1-40.jpg",
+"textImg1":"Biển Côn Đảo",
+"img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/12_2020/nha-tu-con-dao_1.jpg",
+"textImg2":"Nhà tù Côn Đảo"
+},
+{
+"id":30,
+"namePlace":"Phú Quốc",
+"img1":"https://dulichchat.com/wp-content/uploads/2019/12/du-lich-phu-quoc-tu-tuc-dulichchat-16.jpg",
+"textImg1":"Bãi Sao",
+"img2":"https://halotravel.vn/wp-content/uploads/2020/10/check-in-tai-hon-mong-tay-1024x814.jpg",
+"textImg2":"Hòn Móng Tay"
+}
+]
 }
