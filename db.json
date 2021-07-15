@@ -71,102 +71,102 @@
 "textImg1":"Bãi Cháy",
 "img2":"https://combodulichgiare.vn/wp-content/uploads/2021/01/Yen-Tu-mountain-Dong-pagoda.jpg",
 "textImg2":"Núi Yên Tử"
-      },
-      {
-         "id":10,
-         "namePlace":"Vịnh Hạ Long",
-         "img1":"https://owa.bestprice.vn/images/destinations/uploads/dao-tuan-chau-602e375a690c2.jpg",
-         "textImg1":"Đảo Tuần Châu",
-         "img2":"https://pystravel.vn/caches/origin/webp/posts/avatar/1551751128.webp",
-         "textImg2":"Đảo Cô Tô"
-      },
-      {
-         "id":11,
-         "namePlace":"Thung Lũng Tình Yêu",
-         "img1":"https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-1.jpg",
-         "textImg1":"Lạc Tiên Giới",
-         "img2":"https://bazantravel.com/cdn/medias/uploads/80/80412-quang-truong-lam-vien-700x937.jpg",
-         "textImg2":"Quảng trường Lâm Viên"
-      },
-      {
-         "id":12,
-         "namePlace":"Magic Land",
-         "img1":"https://media.travelmag.vn/center/960x576/files/news/2020/08/28/chim-dam-trong-sac-mau-day-hoai-niem-tai-hong-kong-ben-hong-da-lat-100906.jpg",
-         "textImg1":"Chợ Đà Lạt",
-         "img2":"https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-4.jpg",
-         "textImg2":"Dalaland Đà Lạt"
-      },
-      {
-         "id":13,
-         "namePlace":"Khu du lịch Sa Pa",
-         "img1":"https://mytourcdn.com/upload_images/dia-diem-check-in-sapa-1.jpg",
-         "textImg1":"Swing Sapa",
-         "img2":"https://ssl.latcdn.com/img/By0vZ3SlI-nha-tho-da-sapa-12.jpg",
-         "textImg2":"Nhà thờ đá Sapa"
-      },
-      {
-         "id":14,
-         "namePlace":"Đỉnh Phanxipang",
-         "img1":"https://www.vietnamembassy-srilanka.vn/wp-content/uploads/2019/08/cong-troi-sapa.jpg",
-         "textImg1":"Cổng trời",
-         "img2":"https://media.thongtindulich.hahalolo.com/files/thutrang/2021/01/11/thung-lung-muong-hoa-sapa-hahalolo-3-1111.jpg",
-         "textImg2":"Thung Lũng Mường Hoa"
-      },
-      {
-         "id":15,
-         "namePlace":"Tam Đảo",
-         "img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/cau-may-tam-dao-768x576.jpg",
-         "textImg1":"Cầu Mây",
-         "img2":"https://amthucdochay.com/wp-content/uploads/2021/05/kinh-nghiem-phuot-tay-thien-7.jpg",
-         "textImg2":"Chùa Tây Thiên"
-      },
-      {
-         "id":16,
-         "namePlace":"Hồ Đải Lải",
-         "img1":"http://flamingoresorts.vn/sites/default/files/inline-images/%E1%BA%A3nh%20khu%20the%20beach.jpg",
-         "textImg1":"Khu The Beach",
-         "img2":"http://flamingoresorts.vn/sites/default/files/inline-images/%E1%BA%A3nh%20container%20bar%201_0.jpg",
-         "textImg2":"Container Bar"
-      },
-      {
-         "id":17,
-         "namePlace":"Hội Lim",
-         "img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2019/den-do.jpg",
-         "textImg1":"Đền Đô đền Lý Bát Đế",
-         "img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2019/Jungle-House-homestay-min.jpg",
-         "textImg2":"Jungle House Homestay"
-      },
-      {
-         "id":18,
-         "namePlace":"Cát Bà",
-         "img1":"https://ecotour.com.vn/wp-content/uploads/2019/04/ngam-san-ho-dao-co-to-con.jpg",
-         "textImg1":" Bãi tắm Vạn Bội",
-         "img2":"https://ecotour.com.vn/wp-content/uploads/2019/05/dong-thien-long-cat-ba.jpeg",
-         "textImg2":"Động Thiên Long"
-      },
-      {
-         "id":19,
-         "namePlace":"Biển Đồ Sơn",
-         "img1":"https://mytourcdn.com/upload_images/Image/Location/12_12_2016/9/du-lich-dao-hon-dau-bien-do-son-mytour-6.jpg",
-         "textImg1":" Đảo Hòn Dấu",
-         "img2":"http://leadtour.vn/wp-content/uploads/2018/05/bien-do-son-2.jpg",
-         "textImg2":"Lễ hội chọi trâu Đồ Sơn"
-      },
-      {
-         "id":20,
-         "namePlace":"Nhà thờ Công Giáo",
-         "img1":"http://blog.kave.vn/content/images/2020/07/image-3.png",
-         "textImg1":"Nhà thờ Hưng Nghĩa",
-         "img2":"http://blog.kave.vn/content/images/2020/07/image-2.png",
-         "textImg2":"Vườn Quốc gia Xuân Thủy"
-      },
-      {
-         "id":21,
-         "namePlace":"Chùa Bái Đính",
-         "img1":"https://www.tuannguyentravel.com/data/news/default/chua-bai-dinh-co-bao-nhieu-vi-la-han.jpg",
-         "textImg1":"Tượng La Hán",
-         "img2":"https://mavangsaomai.com/wp-content/uploads/2020/08/tuong-phat-bang-dong-dat-vang-lon-nhat-cha-a-8.jpg",
-         "textImg2":"Tượng bằng đống dát vàng"
+},
+{
+"id":10,
+"namePlace":"Vịnh Hạ Long",
+"img1":"https://owa.bestprice.vn/images/destinations/uploads/dao-tuan-chau-602e375a690c2.jpg",
+"textImg1":"Đảo Tuần Châu",
+"img2":"https://pystravel.vn/caches/origin/webp/posts/avatar/1551751128.webp",
+"textImg2":"Đảo Cô Tô"
+},
+{
+"id":11,
+"namePlace":"Thung Lũng Tình Yêu",
+"img1":"https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-1.jpg",
+"textImg1":"Lạc Tiên Giới",
+"img2":"https://bazantravel.com/cdn/medias/uploads/80/80412-quang-truong-lam-vien-700x937.jpg",
+"textImg2":"Quảng trường Lâm Viên"
+},
+{
+"id":12,
+ "namePlace":"Magic Land",
+"img1":"https://media.travelmag.vn/center/960x576/files/news/2020/08/28/chim-dam-trong-sac-mau-day-hoai-niem-tai-hong-kong-ben-hong-da-lat-100906.jpg",
+"textImg1":"Chợ Đà Lạt",
+"img2":"https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-4.jpg",
+"textImg2":"Dalaland Đà Lạt"
+},
+{
+"id":13,
+"namePlace":"Khu du lịch Sa Pa",
+"img1":"https://mytourcdn.com/upload_images/dia-diem-check-in-sapa-1.jpg",
+"textImg1":"Swing Sapa",
+"img2":"https://ssl.latcdn.com/img/By0vZ3SlI-nha-tho-da-sapa-12.jpg",
+"textImg2":"Nhà thờ đá Sapa"
+},
+{
+"id":14,
+"namePlace":"Đỉnh Phanxipang",
+"img1":"https://www.vietnamembassy-srilanka.vn/wp-content/uploads/2019/08/cong-troi-sapa.jpg",
+"textImg1":"Cổng trời",
+"img2":"https://media.thongtindulich.hahalolo.com/files/thutrang/2021/01/11/thung-lung-muong-hoa-sapa-hahalolo-3-1111.jpg",
+"textImg2":"Thung Lũng Mường Hoa"
+},
+{
+"id":15,
+"namePlace":"Tam Đảo",
+"img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/cau-may-tam-dao-768x576.jpg",
+"textImg1":"Cầu Mây",
+"img2":"https://amthucdochay.com/wp-content/uploads/2021/05/kinh-nghiem-phuot-tay-thien-7.jpg",
+"textImg2":"Chùa Tây Thiên"
+},
+{
+"id":16,
+"namePlace":"Hồ Đải Lải",
+"img1":"http://flamingoresorts.vn/sites/default/files/inline-images/%E1%BA%A3nh%20khu%20the%20beach.jpg",
+"textImg1":"Khu The Beach",
+"img2":"http://flamingoresorts.vn/sites/default/files/inline-images/%E1%BA%A3nh%20container%20bar%201_0.jpg",
+"textImg2":"Container Bar"
+},
+{
+"id":17,
+"namePlace":"Hội Lim",
+"img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2019/den-do.jpg",
+"textImg1":"Đền Đô đền Lý Bát Đế",
+"img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/06_2019/Jungle-House-homestay-min.jpg",
+"textImg2":"Jungle House Homestay"
+},
+{
+"id":18,
+"namePlace":"Cát Bà",
+"img1":"https://ecotour.com.vn/wp-content/uploads/2019/04/ngam-san-ho-dao-co-to-con.jpg",
+"textImg1":" Bãi tắm Vạn Bội",
+"img2":"https://ecotour.com.vn/wp-content/uploads/2019/05/dong-thien-long-cat-ba.jpeg",
+"textImg2":"Động Thiên Long"
+},
+{
+"id":19,
+"namePlace":"Biển Đồ Sơn",
+"img1":"https://mytourcdn.com/upload_images/Image/Location/12_12_2016/9/du-lich-dao-hon-dau-bien-do-son-mytour-6.jpg",
+"textImg1":" Đảo Hòn Dấu",
+"img2":"http://leadtour.vn/wp-content/uploads/2018/05/bien-do-son-2.jpg",
+"textImg2":"Lễ hội chọi trâu Đồ Sơn"
+},
+{
+"id":20,
+"namePlace":"Nhà thờ Công Giáo",
+"img1":"http://blog.kave.vn/content/images/2020/07/image-3.png",
+"textImg1":"Nhà thờ Hưng Nghĩa",
+"img2":"http://blog.kave.vn/content/images/2020/07/image-2.png",
+"textImg2":"Vườn Quốc gia Xuân Thủy"
+},
+{
+"id":21,
+"namePlace":"Chùa Bái Đính",
+"img1":"https://www.tuannguyentravel.com/data/news/default/chua-bai-dinh-co-bao-nhieu-vi-la-han.jpg",
+"textImg1":"Tượng La Hán",
+"img2":"https://mavangsaomai.com/wp-content/uploads/2020/08/tuong-phat-bang-dong-dat-vang-lon-nhat-cha-a-8.jpg",
+"textImg2":"Tượng bằng đống dát vàng"
       },
       {
          "id":22,
