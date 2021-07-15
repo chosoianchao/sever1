@@ -5,14 +5,14 @@
       "img1":"https://datvietvnn.com/wp-content/uploads/2020/07/dia-diem-check-in-tai-ho-tay.jpg",
      "textImg1":"Hồ Tây",
      "img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/08_2020/kien-truc-hoang-thanh-thang-long.jpg",
-     "textImg2":"Hoàng thành Thăng Long", 
+     "textImg2":"Hoàng thành Thăng Long"
     },
     { "id": 2,
       "namePlace" : "Hồ Gươm",
       "img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2019/toa-soan-ha-noi-moi-min.jpg",
      "textImg1":"Phố cổ Hà Nội",
      "img2":"http://media.kinhtedothi.vn/524/2019/5/4/van%20mieu.JPG",
-     "textImg2":"Văn miếu Quốc Tử Giám",
+     "textImg2":"Văn miếu Quốc Tử Giám"
     },
 {
 "id": 3,
@@ -20,7 +20,7 @@
 "img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png",
 "textImg1": "Chợ Bến Thành",
 "img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png",
-"textImg2": "Địa đạo Củ Chi",
+"textImg2": "Địa đạo Củ Chi"
 },
 {
 "id": 4,
@@ -28,37 +28,87 @@
 "img1": "https://www.vietfuntravel.com.vn/image/data/sai-gon/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm-h1.jpg",
 "textImg1": "Phố đi bộ Nguyễn Huệ",
 "img2": "https://aloviet.vn/wp-content/uploads/2020/11/cau-anh-sao-2.jpg",
-"textImg2": "Cầu Ánh Sao",
+"textImg2": "Cầu Ánh Sao"
 },
 {
 "id": 5,
-"namePlace": "Nhà thờ lớn Hà Nội",
-"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-tho-lon-ha-noi.jpg",
-"textImg1": "Nhà thớ lớn – niềm tự hào của Hà Nội.",
-"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/tra-chanh-nha-tho.jpg",
-"textImg2": "Trà chanh nhà thờ là thói quen của giới trẻ Hà Nội.",
-"comment1": "",
-"comment2": ""
+"namePlace": "Bà Nà Hill",
+"img1": "https://tourismdanang.com/wp-content/uploads/2020/05/A%CC%89nh-chu%CC%A3p-Ma%CC%80n-hi%CC%80nh-2020-05-28-lu%CC%81c-23.00.50.png",
+"textImg1": "Công viên Châu Á Asia Park",
+"img2": "https://cdn.yeudulich.com/940x630/media/attraction/attraction/VNMDAD16.jpg",
+"textImg2": "Suối khoáng nóng Thần Tài"
 },
 {
 "id": 6,
-"namePlace": "Chùa Trấn Quốc",
-"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/chua-tran-quoc-ha-noi-1.jpg",
-"textImg1": "Chùa Trấn Quốc uy nghiêm nổi bật giữa lòng Hà Nội.",
-"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/chua-tran-quoc-ha-noi.jpg",
-"textImg2": "Không gian chùa yên tĩnh và bình yên.",
-"comment1": "",
-"comment2": ""
+"namePlace": "Bán đảo Sơn Trà",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/Nui-Ngu-Hanh-Son.png",
+"textImg1": "Ngũ Hành Sơn",
+"img2": "https://wiki-travel.com.vn/Uploads/picture/myyen97-200310110308-my-khe.jpg",
+"textImg2": "Bãi biển Mỹ Khê"
 },
 {
 "id": 7,
-"namePlace": "Nhà thờ lớn Hà Nội",
-"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-tho-lon-ha-noi.jpg",
-"textImg1": "Nhà thớ lớn – niềm tự hào của Hà Nội.",
-"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/tra-chanh-nha-tho.jpg",
-"textImg2": "Trà chanh nhà thờ là thói quen của giới trẻ Hà Nội.",
-"comment1": "",
-"comment2": ""
+"namePlace": "Khu du lịch Vinpearl Land",
+"img1": "https://owa.bestprice.vn/images/articles/uploads/moi-nhat-kinh-nghiem-di-vien-hai-duong-hoc-nha-trang-tu-a-z-5f324fee9401d.jpg",
+"textImg1": "Viện Hải dương học Nha Trang",
+"img2": "https://nhatranghottour.com/wp-content/uploads/2018/04/yang-bay-11.jpg",
+"textImg2": "Thác Yangbay"
+},
+{
+"id": 8,
+"namePlace": "Bãi biển Nha Trang",
+"img1": "https://findtour.vn/Media/Places/bai-bien-doc-let.jpg",
+"textImg1": "Khu du lịch Dốc Lết",
+"img2": "https://themetravel.com.vn/upload/product/126296447957.jpg",
+"textImg2": "Đảo Bình Hưng"
+},
+{
+"id": 9,
+"namePlace": "Khu vui chơi Sun World Quảng Ninh",
+"img1": "https://owa.bestprice.vn/images/articles/uploads/kinh-nghiem-du-lich-bai-chay-3-ngay-2-dem-sieu-vui-sieu-re-5e9d542f6bf8f.jpg",
+"textImg1": "Bãi Cháy",
+"img2": "https://combodulichgiare.vn/wp-content/uploads/2021/01/Yen-Tu-mountain-Dong-pagoda.jpg",
+"textImg2": "Núi Yên Tử"
+},
+{
+"id": 10,
+"namePlace": "Vịnh Hạ Long",
+"img1": "https://owa.bestprice.vn/images/destinations/uploads/dao-tuan-chau-602e375a690c2.jpg",
+"textImg1": "Đảo Tuần Châu",
+"img2": "https://pystravel.vn/caches/origin/webp/posts/avatar/1551751128.webp",
+"textImg2": "Đảo Cô Tô"
+},
+{
+"id": 11,
+"namePlace": "Thung Lũng Tình Yêu",
+"img1": "https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-1.jpg",
+"textImg1": "Lạc Tiên Giới",
+"img2": "https://bazantravel.com/cdn/medias/uploads/80/80412-quang-truong-lam-vien-700x937.jpg",
+"textImg2": "Quảng trường Lâm Viên"
+},
+{
+"id": 12,
+"namePlace": "Magic Land",
+"img1": "https://media.travelmag.vn/center/960x576/files/news/2020/08/28/chim-dam-trong-sac-mau-day-hoai-niem-tai-hong-kong-ben-hong-da-lat-100906.jpg",
+"textImg1": "Chợ Đà Lạt",
+"img2": "https://ladalathotel.com.vn/wp-content/uploads/2021/03/nhung-dia-diem-dep-o-da-lat-4.jpg",
+"textImg2": "Dalaland Đà Lạt"
+},
+{
+"id": 13,
+"namePlace": "Khu du lịch Sa Pa",
+"img1": "https://mytourcdn.com/upload_images/dia-diem-check-in-sapa-1.jpg",
+"textImg1": "Swing Sapa",
+"img2": "https://ssl.latcdn.com/img/By0vZ3SlI-nha-tho-da-sapa-12.jpg",
+"textImg2": "Nhà thờ đá Sapa"
+},
+{
+"id": 14,
+"namePlace": "Đỉnh Phanxipang",
+"img1": "https://www.vietnamembassy-srilanka.vn/wp-content/uploads/2019/08/cong-troi-sapa.jpg",
+"textImg1": "Cổng trời",
+"img2": "https://media.thongtindulich.hahalolo.com/files/thutrang/2021/01/11/thung-lung-muong-hoa-sapa-hahalolo-3-1111.jpg",
+"textImg2": "Thung Lũng Mường Hoa"
 }
   ]
 }
