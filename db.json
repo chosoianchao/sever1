@@ -1,76 +1,76 @@
 {
    "detailPlace":[
-      {
-         "id":1,
-         "namePlace":"Quảng trường Ba Đình – Lăng Bác",
-         "img1":"https://datvietvnn.com/wp-content/uploads/2020/07/dia-diem-check-in-tai-ho-tay.jpg",
-         "textImg1":"Hồ Tây",
-         "img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/08_2020/kien-truc-hoang-thanh-thang-long.jpg",
-         "textImg2":"Hoàng thành Thăng Long"
-      },
-      {
-         "id":2,
-         "namePlace":"Hồ Gươm",
-         "img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2019/toa-soan-ha-noi-moi-min.jpg",
-         "textImg1":"Phố cổ Hà Nội",
-         "img2":"http://media.kinhtedothi.vn/524/2019/5/4/van%20mieu.JPG",
-         "textImg2":"Văn miếu Quốc Tử Giám"
-      },
-      {
-         "id":3,
-         "namePlace":"Dinh Độc Lập",
-         "img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png",
-         "textImg1":"Chợ Bến Thành",
-         "img2":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png",
-         "textImg2":"Địa đạo Củ Chi"
-      },
-      {
-         "id":4,
-         "namePlace":"Khu du lịch Suối Tiên",
-         "img1":"https://www.vietfuntravel.com.vn/image/data/sai-gon/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm-h1.jpg",
-         "textImg1":"Phố đi bộ Nguyễn Huệ",
-         "img2":"https://aloviet.vn/wp-content/uploads/2020/11/cau-anh-sao-2.jpg",
-         "textImg2":"Cầu Ánh Sao"
-      },
-      {
-         "id":5,
-         "namePlace":"Bà Nà Hill",
-         "img1":"https://tourismdanang.com/wp-content/uploads/2020/05/A%CC%89nh-chu%CC%A3p-Ma%CC%80n-hi%CC%80nh-2020-05-28-lu%CC%81c-23.00.50.png",
-         "textImg1":"Công viên Châu Á Asia Park",
-         "img2":"https://cdn.yeudulich.com/940x630/media/attraction/attraction/VNMDAD16.jpg",
-         "textImg2":"Suối khoáng nóng Thần Tài"
-      },
-      {
-         "id":6,
-         "namePlace":"Bán đảo Sơn Trà",
-         "img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/Nui-Ngu-Hanh-Son.png",
-         "textImg1":"Ngũ Hành Sơn",
-         "img2":"https://wiki-travel.com.vn/Uploads/picture/myyen97-200310110308-my-khe.jpg",
-         "textImg2":"Bãi biển Mỹ Khê"
-      },
-      {
-         "id":7,
-         "namePlace":"Khu du lịch Vinpearl Land",
-         "img1":"https://owa.bestprice.vn/images/articles/uploads/moi-nhat-kinh-nghiem-di-vien-hai-duong-hoc-nha-trang-tu-a-z-5f324fee9401d.jpg",
-         "textImg1":"Viện Hải dương học Nha Trang",
-         "img2":"https://nhatranghottour.com/wp-content/uploads/2018/04/yang-bay-11.jpg",
-         "textImg2":"Thác Yangbay"
-      },
-      {
-         "id":8,
-         "namePlace":"Bãi biển Nha Trang",
-         "img1":"https://findtour.vn/Media/Places/bai-bien-doc-let.jpg",
-         "textImg1":"Khu du lịch Dốc Lết",
-         "img2":"https://themetravel.com.vn/upload/product/126296447957.jpg",
-         "textImg2":"Đảo Bình Hưng"
-      },
-      {
-         "id":9,
-         "namePlace":"Khu vui chơi Sun World Quảng Ninh",
-         "img1":"https://owa.bestprice.vn/images/articles/uploads/kinh-nghiem-du-lich-bai-chay-3-ngay-2-dem-sieu-vui-sieu-re-5e9d542f6bf8f.jpg",
-         "textImg1":"Bãi Cháy",
-         "img2":"https://combodulichgiare.vn/wp-content/uploads/2021/01/Yen-Tu-mountain-Dong-pagoda.jpg",
-         "textImg2":"Núi Yên Tử"
+{
+"id":1,
+"namePlace":"Quảng trường Ba Đình – Lăng Bác",
+"img1":"https://datvietvnn.com/wp-content/uploads/2020/07/dia-diem-check-in-tai-ho-tay.jpg",
+"textImg1":"Hồ Tây",
+"img2":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/08_2020/kien-truc-hoang-thanh-thang-long.jpg",
+"textImg2":"Hoàng thành Thăng Long"
+},
+{
+"id":2,
+"namePlace":"Hồ Gươm",
+"img1":"https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/07_2019/toa-soan-ha-noi-moi-min.jpg",
+"textImg1":"Phố cổ Hà Nội",
+"img2":"http://media.kinhtedothi.vn/524/2019/5/4/van%20mieu.JPG",
+"textImg2":"Văn miếu Quốc Tử Giám"
+},
+{
+"id":3,
+"namePlace":"Dinh Độc Lập",
+"img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png",
+"textImg1":"Chợ Bến Thành",
+"img2":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png",
+"textImg2":"Địa đạo Củ Chi"
+},
+{
+"id":4,
+"namePlace":"Khu du lịch Suối Tiên",
+"img1":"https://www.vietfuntravel.com.vn/image/data/sai-gon/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm/kinh-nghiem-di-pho-di-bo-nguyen-hue-quan-1-tphcm-h1.jpg",
+"textImg1":"Phố đi bộ Nguyễn Huệ",
+"img2":"https://aloviet.vn/wp-content/uploads/2020/11/cau-anh-sao-2.jpg",
+"textImg2":"Cầu Ánh Sao"
+},
+{
+"id":5,
+"namePlace":"Bà Nà Hill",
+"img1":"https://tourismdanang.com/wp-content/uploads/2020/05/A%CC%89nh-chu%CC%A3p-Ma%CC%80n-hi%CC%80nh-2020-05-28-lu%CC%81c-23.00.50.png",
+"textImg1":"Công viên Châu Á Asia Park",
+"img2":"https://cdn.yeudulich.com/940x630/media/attraction/attraction/VNMDAD16.jpg",
+"textImg2":"Suối khoáng nóng Thần Tài"
+},
+{
+"id":6,
+"namePlace":"Bán đảo Sơn Trà",
+"img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/Nui-Ngu-Hanh-Son.png",
+"textImg1":"Ngũ Hành Sơn",
+"img2":"https://wiki-travel.com.vn/Uploads/picture/myyen97-200310110308-my-khe.jpg",
+"textImg2":"Bãi biển Mỹ Khê"
+},
+{
+"id":7,
+"namePlace":"Khu du lịch Vinpearl Land",
+"img1":"https://owa.bestprice.vn/images/articles/uploads/moi-nhat-kinh-nghiem-di-vien-hai-duong-hoc-nha-trang-tu-a-z-5f324fee9401d.jpg",
+"textImg1":"Viện Hải dương học Nha Trang",
+"img2":"https://nhatranghottour.com/wp-content/uploads/2018/04/yang-bay-11.jpg",
+"textImg2":"Thác Yangbay"
+},
+{
+"id":8,
+"namePlace":"Bãi biển Nha Trang",
+"img1":"https://findtour.vn/Media/Places/bai-bien-doc-let.jpg",
+"textImg1":"Khu du lịch Dốc Lết",
+"img2":"https://themetravel.com.vn/upload/product/126296447957.jpg",
+"textImg2":"Đảo Bình Hưng"
+},
+{
+"id":9,
+"namePlace":"Khu vui chơi Sun World Quảng Ninh",
+"img1":"https://owa.bestprice.vn/images/articles/uploads/kinh-nghiem-du-lich-bai-chay-3-ngay-2-dem-sieu-vui-sieu-re-5e9d542f6bf8f.jpg",
+"textImg1":"Bãi Cháy",
+"img2":"https://combodulichgiare.vn/wp-content/uploads/2021/01/Yen-Tu-mountain-Dong-pagoda.jpg",
+"textImg2":"Núi Yên Tử"
       },
       {
          "id":10,
